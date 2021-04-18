@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerAdd",
+        "userAdd",
         "Elements",
         "inptFirstName.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerAdd",
+        "userAdd",
         "Elements",
         "inptLastName.json"
       ]
@@ -32,7 +32,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerAdd",
+        "userAdd",
         "Elements",
         "btnSubmitAdd.json"
       ]
@@ -41,7 +41,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerAdd",
+        "userAdd",
         "Elements",
         "lblAlertSign.json"
       ]
@@ -50,7 +50,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerAdd",
+        "userAdd",
         "Elements",
         "inptPassword.json"
       ]
@@ -59,7 +59,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerAdd",
+        "userAdd",
         "Elements",
         "inptEmail.json"
       ]
@@ -68,9 +68,18 @@
       "!type": "External",
       "file": [
         "forms",
-        "customerAdd",
+        "userAdd",
         "Elements",
         "inptPasswordRepeat.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "userAdd",
+        "Elements",
+        "inptUserName.json"
       ]
     }
   ],
@@ -80,7 +89,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "customerAdd",
+  "id": "userAdd",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

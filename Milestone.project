@@ -23,8 +23,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "customerAdd",
-            "customerAdd.json"
+            "userAdd",
+            "userAdd.json"
           ]
         }
       ],
@@ -47,7 +47,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "customerAdd",
+      "firstform": "userAdd",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
